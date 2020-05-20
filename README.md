@@ -1,6 +1,6 @@
 # slack_files_archiving
 
-Folder structure: \
+Folder structure:
 
 this_dir/ \
   &nbsp;&nbsp;&nbsp;download_files_from_slack_export.py \
