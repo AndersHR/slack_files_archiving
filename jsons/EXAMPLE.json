@@ -1,7 +1,7 @@
 [
     {
         "type": "message",
-        "text": ""
+        "text": "",
         "files": [
             {
                 "name": "this meme is left as an exercise to the reader.png",
@@ -10,5 +10,5 @@
                 "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0MV6EB8W-FS0GR2A3D\/download\/this_meme_is_left_as_an_exercise_to_the_reader.png?t=xoxe-21992487302-1133012040464-1094442467383-dbbf7120531e6b99be22c728d81db266",
             }
         ],
-    }
+    },
 ]
