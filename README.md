@@ -3,8 +3,8 @@
 Folder structure: \\
 
 this_dir/ \
-  download_files_from_slack_export.py \
-  jsons/ \
-    # .json files from slack export \
-  images/ \
-    # image/video files will be downloaded to here
+  &nbsp;&nbsp;&nbsp;download_files_from_slack_export.py \
+  &nbsp;&nbsp;&nbsp;jsons/ \
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # .json files from slack export \
+  &nbsp;&nbsp;&nbsp;images/ \
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # image/video files will be downloaded to here
